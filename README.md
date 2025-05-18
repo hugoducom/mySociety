@@ -1,10 +1,3 @@
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![Unlicense License][license-shield]][license-url]
-
-
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
@@ -16,8 +9,6 @@
 
   <p align="center">
     mySociety is a complete society mangement web solution (members, invoices, events and more!)
-    <br />
-    <a href="https://github.com/hugoducom/mySociety"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://github.com/hugoducom/mySociety/issues/new?labels=bug&template=bug-report-🐞.md">Report Bug</a>
